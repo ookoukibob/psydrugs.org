@@ -3,7 +3,7 @@ wiki: reports
 title: PsyDrugs 用户报告
 menu_id: reports
 date: 2024-01-01 12:00:00
-updated: 2024-06-15 18:30:00
+updated: 2026-03-04 00:00:00
 ---
 
 ## PsyDrugs 用户报告
@@ -39,7 +39,11 @@ updated: 2024-06-15 18:30:00
 | [报告 12](/reports/pdw-reports/RP-12/) | 多药物混合 | 爱德华 | 关于悼念FOW参与者爱德华 | 2026-02-05 |
 | [报告 13](/reports/pdw-reports/RP-13/) | 普瑞巴林 | tead9 | 外出服用12t150mg |2026-02-04 00:00:00 |
 | [报告 14](/reports/pdw-reports/RP-14/) | 瓶装普瑞巴林 75mg + 右美沙芬片 | tead9 | 普瑞巴林 + 右美沙芬 | 2026-02-04 |
-| [报告 15](/reports/pdw-reports/RP-15/) | 普瑞巴林 | tead9 | 普瑞巴 | 2026-02-18 |
+| [报告 15](/reports/pdw-reports/RP-15/) | 普瑞巴林 | tead9 | 普瑞巴林 | 2026-02-18 |
+| [报告 16](/reports/pdw-reports/RP-16/) | 三种中枢抑制剂联用差点给我弄死 | EDTA-4Na | 乙醇 + 右美沙芬 + 普瑞巴林 | 2026-02-04 |
+| [报告 17](/reports/pdw-reports/RP-17/) | 丁螺环酮与右美沙芬的不良体验 | [数据删除] | 丁螺环酮 + 右美沙芬 | 2026-02-06 |
+| [报告 18](/reports/pdw-reports/RP-18/) | 金刚烷胺（晚安）两次体验 | — | 金刚烷胺 | 2026-03-04 |
+| [报告 19](/reports/pdw-reports/RP-19/) | 日本右美沙芬体验 | tead9 | 右美沙芬（日本版） | 2026-03-04 |
 
 ---
 
