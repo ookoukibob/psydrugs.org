@@ -60,7 +60,7 @@ Add:
 - Part4看见以下画面。在我面前的是问题询问的人像化，且无法辨识人脸。应当说的是，我那时失去了对人脸、人外形的认知。
 - Part5终末，看见以下画面。此时我被Part4中的问题拷打，问题为何，醒来就忘了。这个画面很美，是一明的光，照着阴郁的我。
 
-![odwiki-dxm-oar-the_fifth_plateau-ima2.jpg](/dxm/odwiki-dxm-oar-the_fifth_plateau-ima2.jpg)
+（原图缺失：odwiki-dxm-oar-the_fifth_plateau-ima2.jpg）
 之后，经历了严重的思维混乱，存在痛苦。以上是关于幻觉的报道
 **Chapter4**
 接下来是意识（的解离）描述：
@@ -93,7 +93,7 @@ B站：一个人与人之间的社区（天啊我不是不想认知这可以看�
 <details>
   <summary>一张图片</summary>
   
-![congyu.webp](/congyu.webp)
+（原图缺失：congyu.webp）
   
 </details>
 

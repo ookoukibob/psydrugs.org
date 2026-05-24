@@ -20,21 +20,21 @@ tree:
     - 简易od药物介绍
     - 复方专题
   "常见od药物":
-    - 常见od药物/右美沙芬_愈美片
-    - 常见od药物/普瑞巴林
-    - 常见od药物/二氢可待因
-    - 常见od药物/金刚烷胺
+    - dissociatives/右美沙芬_愈美片
+    - depressants/普瑞巴林
+    - opioids/二氢可待因
+    - dissociatives/金刚烷胺
   "安眠药":
-    - 镇静剂/苯二氮卓类药物/苯二氮卓类药物
-    - 镇静剂/Z类药物/index
-  "兴奋剂":
-    - 兴奋剂/index
-    - 兴奋剂/苯丙胺类兴奋剂/index
-    - 兴奋剂/非苯丙胺类兴奋剂/index
+    - depressants/苯二氮卓类药物
+    - depressants/Z药物
   "阿片类药物":
-    - 止痛药/阿片类药物/阿片类药物
-    - 止痛药/阿片类药物/吗啡
-    - 止痛药/阿片类药物/可待因
-    - 止痛药/阿片类药物/曲马多
-    - 止痛药/阿片类药物/芬太尼
-    - 止痛药/阿片类药物/二氢可待因
+    - opioids/阿片类药物
+    - opioids/吗啡
+    - opioids/可待因
+    - opioids/曲马多
+    - opioids/羟考酮
+    - opioids/二氢可待因
+  "兴奋剂":
+    - stimulants/index
+    - stimulants/苯丙胺类兴奋剂
+    - stimulants/非苯丙胺类兴奋剂
