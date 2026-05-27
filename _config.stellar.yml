@@ -118,6 +118,7 @@ site_tree:
     rightbar:
     nav_tabs:
       "药物效果": /effects/
+      "神经药理": /neuropharmacology/
       "文档演示": https://generator.psydrugs.org/
       "贡献者": /contributors/
   # -- 内容类页面 -- #
